@@ -20,10 +20,10 @@ Create cumulative blend timelapse videos from image sequences. Perfect for captu
 ![Single frame sample](sample_single.jpg)
 
 ### All Frames Stacked
-![Complete stack](sample_stack.jpg)
+![Complete stack](frame_0164.jpg)
 
 ### Output Video
-![Timelapse result](output_video.gif)
+![Timelapse result](Timestacksanimation_test6_timestack.mp4)
 
 ## Installation
 
