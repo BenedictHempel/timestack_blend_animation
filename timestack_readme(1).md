@@ -20,8 +20,8 @@ Create cumulative blend timelapse videos from image sequences. Perfect for captu
 </tr>
 <tr>
 <td><img src="sample_single.jpg" width="300"/></td>
-<td><img src="sample_stack.jpg" width="300"/></td>
-<td><img src="output_video.gif" width="300"/></td>
+<td><img src="frame_0164.jpg" width="300"/></td>
+<td><img src="Timestacksanimation_test6_timestact.gif" width="300"/></td>
 </tr>
 </table>
 
