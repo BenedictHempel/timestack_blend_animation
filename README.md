@@ -23,7 +23,7 @@ Create cumulative blend timelapse videos from image sequences. Perfect for captu
 ![Complete stack](frame_0164.jpg)
 
 ### Output Video
-![Timelapse result](Timestacksanimation_test6_timestack.mp4)
+![Timelapse result](Timestacksanimation_test6_timestack.gif)
 
 ## Installation
 
